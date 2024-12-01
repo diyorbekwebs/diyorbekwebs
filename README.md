@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi 👋, I'm Diyorbek
 
-<!--
-**diyorbekwebs/diyorbekwebs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages and Tools:
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,materialui,js,ts,git,github,react,redux,nodejs,express,postgres,mongodb,apollo,heroku,vercel,netlify,vscode&perline=18)](https://skillicons.dev)
+
+
+<br />
+<br />
+
+
+## GitHub statics
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiyorbekWebs&show_icons=true&theme=tokyonight&bg_color=#0D1117)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiyorbekWebs&theme=tokyonight)](https://github.com/Diyorbekwebs)
